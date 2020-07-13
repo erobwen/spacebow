@@ -1,13 +1,14 @@
-# spacebow
+
+# Spacebow
 Open source crossbow design.
 
 
-Drawings: 
+## Drawings: 
 
 This repository contains some files for automatic crossbow design. There are some .skp files that are compatible with Google Sketchup 17 but can be opened with later versions of Google Sketchup. 
 
 
-Bow cam generator: 
+## Bow cam generator: 
 
 In addition, there is a plugin bowcam.rb for generating a single track bow cam.
 
