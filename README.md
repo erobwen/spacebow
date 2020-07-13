@@ -21,3 +21,10 @@ How to use: Place this file in the following folder:
 C:\Users\your username here\AppData\Roaming\SketchUp\SketchUp 2017\Sketchup\Plugins
 
 Restart Google Sketchup and run from the Extensions menu. 
+
+
+## Documentation
+
+This design is discussed in detail here:
+
+https://docs.google.com/document/d/1s7MeNULQeEqOtn-KfdoGqhxWZkMFmhRA5KLRPyqTAdE/edit?usp=sharing
